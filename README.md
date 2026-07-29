@@ -1,33 +1,27 @@
 # yv-or.github.io
 
-Rovy Dalusung — Portfolio
+# Rovy Dalusung — Portfolio
 
 Personal portfolio website of Rovy Dalusung, a 2nd-year BSIT Network Administration student at Holy Angel University.
 
-Live website
+## Live website
 
-https://yv-or.github.io
+[https://yv-or.github.io](https://yv-or.github.io)
 
-Built with
+## Built with
 
-HTML5
+- HTML5
+- CSS3
+- JavaScript
+- GitHub Pages
 
-CSS3
+## Included work
 
-JavaScript
+- HAU Dorm Finder — Human-Computer Interaction final project
+- MonsterMatch — CSS styling and animation project
+- Curbside Thai — Responsive web-design project
+- Iris Music Player — Browser-based media and lyrics interface
 
-GitHub Pages
-
-Included work
-
-HAU Dorm Finder — Human-Computer Interaction final project
-
-MonsterMatch — CSS styling and animation project
-
-Curbside Thai — Responsive web-design project
-
-Iris Music Player — Browser-based media and lyrics interface
-
-Note
+## Note
 
 This portfolio was built by Rovy Dalusung with AI assistance. The content was reviewed, personalized, and understood by yvor.

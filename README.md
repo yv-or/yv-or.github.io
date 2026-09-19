@@ -26,7 +26,7 @@ Personal portfolio website of Rovy Dalusung, a 2nd-year BSIT Network Administrat
 
 This portfolio was built by Rovy Dalusung with AI assistance. The content was reviewed, personalized, and understood by yvor.
 
-# Rovy Dalusung Portfolio
+# REDESIGN
 
 A redesigned static portfolio for GitHub Pages.
 

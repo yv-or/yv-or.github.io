@@ -40,9 +40,6 @@ This is intentionally a static-site assistant, not a live cloud LLM. GitHub Page
 
 To add a real generative AI later, connect a serverless function (for example Cloudflare Workers, Netlify Functions, Vercel Functions, or an API gateway) and keep the API key on that server side.
 
-## Publish
-Replace the files in your existing personal `yv-or.github.io` repository and push. Do not create a new repository or change the Pages URL.
-
 ## Note
 
 This portfolio was built by Rovy Dalusung with AI assistance. The content was reviewed, personalized, and understood by yvor.

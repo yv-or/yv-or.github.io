@@ -22,10 +22,6 @@ Personal portfolio website of Rovy Dalusung, a 2nd-year BSIT Network Administrat
 - Curbside Thai — Responsive web-design project
 - Iris Music Player — Browser-based media and lyrics interface
 
-## Note
-
-This portfolio was built by Rovy Dalusung with AI assistance. The content was reviewed, personalized, and understood by yvor.
-
 # REDESIGN
 
 A redesigned static portfolio for GitHub Pages.
@@ -46,3 +42,7 @@ To add a real generative AI later, connect a serverless function (for example Cl
 
 ## Publish
 Replace the files in your existing personal `yv-or.github.io` repository and push. Do not create a new repository or change the Pages URL.
+
+## Note
+
+This portfolio was built by Rovy Dalusung with AI assistance. The content was reviewed, personalized, and understood by yvor.

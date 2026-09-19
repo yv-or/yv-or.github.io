@@ -25,3 +25,24 @@ Personal portfolio website of Rovy Dalusung, a 2nd-year BSIT Network Administrat
 ## Note
 
 This portfolio was built by Rovy Dalusung with AI assistance. The content was reviewed, personalized, and understood by yvor.
+
+# Rovy Dalusung Portfolio
+
+A redesigned static portfolio for GitHub Pages.
+
+## What changed
+- Rebuilt all four pages with a new visual system and responsive layout.
+- Added dark / light / system theme settings with localStorage persistence.
+- Added reduced-motion setting.
+- Added a site-wide portfolio assistant that runs entirely in the browser and answers from published portfolio data.
+- Upgraded project gallery with search + category filters.
+- Added subtle reveal, hover, magnetic-button, text-rotation, and cursor-glow interactions.
+- Kept the existing `yv-or.github.io` deployment model and external `js/script.js` required by the course.
+
+## About the assistant
+This is intentionally a static-site assistant, not a live cloud LLM. GitHub Pages cannot safely store a private OpenAI/API key in client-side JavaScript. The assistant therefore uses a small local knowledge base and intent matching so the portfolio can have an assistant-like experience without exposing secrets.
+
+To add a real generative AI later, connect a serverless function (for example Cloudflare Workers, Netlify Functions, Vercel Functions, or an API gateway) and keep the API key on that server side.
+
+## Publish
+Replace the files in your existing personal `yv-or.github.io` repository and push. Do not create a new repository or change the Pages URL.
